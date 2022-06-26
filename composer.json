@@ -1,5 +1,5 @@
 {
-    "name": "iwxModules/NEW",
+    "name": "iwxmodules/new",
     "description": "OP-Lib is onePay srilanka payment gateway supporting libries for the php language,It can make easier your data verification and gateway configurations.",
     "type": "library",
     "require": {
