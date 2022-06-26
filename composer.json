@@ -1,0 +1,21 @@
+{
+    "name": "sjayamal/onepaylk",
+    "description": "OP-Lib is onePay srilanka payment gateway supporting libries for the php language,It can make easier your data verification and gateway configurations.",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sjayamal\\Onepaylk\\": "lib_src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sudarshan Jayamal",
+            "email": "info.sjayamal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
